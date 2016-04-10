@@ -23,6 +23,6 @@
     "url": "https://github.com/fdecampredon/brackets-tslint/issues"
   },
   "dependencies": {
-    "tslint": "~0.4.10"
+    "tslint": "~3.7.1"
   }
 }
